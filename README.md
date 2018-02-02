@@ -52,6 +52,19 @@ A JSON output in this format:
 ```
 
 # Reporting
-1. Fork this repo
+1. Import this repo into a private repo (you can use Bitbucket for free private repos).
 2. add a new folder `output` and put your PHP file inside it.
-3. Create a new issue on this repo title it `Solution` and put the link to your repo in the comment area along with your email ID.
+3. Make `LawSikho` a User with read access on your private repo in Bitbucket
+
+# Questions
+Create new issues in this repo for any questions to get answered.
+
+# Evaluation
+1. Knowledge of PHP, regex and basic Git is to be evaluated.
+2. Adherence to this README would also be evaluated.
+3. An internship would be awarded to all successful candidates at our Kolkata office.
+4. If you have received no response from us after attempting the test, drop a mail to `tech@lawsikho.com`.
+5. Your application must be developed using a version of PHP >= 5.3.3
+
+# Misc
+1. Feel free to fork this test
