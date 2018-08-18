@@ -51,6 +51,9 @@ A JSON output in this format:
 ]
 ```
 
+The JSON output is indexed by `Court No.` available in the HTML file. Inside that is an array of all case objects. A case object must contain, `case` and `name`. Take care as many of the case names go into multiple lines.
+
+
 # Reporting
 1. Import this repo into a private repo (you can use Bitbucket for free private repos).
 2. add a new folder `output` and put your PHP file inside it.
@@ -60,7 +63,7 @@ A JSON output in this format:
 Create new issues in this repo for any questions to get answered.
 
 # Evaluation
-1. Knowledge of PHP, regex and basic Git is to be evaluated.
+1. Knowledge of PHP, Regex and basic Git is to be evaluated.
 2. Adherence to this README would also be evaluated.
 3. An internship would be awarded to all successful candidates at our Kolkata office.
 4. If you have received no response from us after attempting the test, drop a mail to `tech@lawsikho.com`.
